@@ -1,0 +1,1 @@
+This marks my second foray into website layout using CSS, HTML, and JavaScript, coupled with the integration of pre-existing assets. The objective of this project was to demonstrate proficiency in crafting a parallax effect within a web page. This endeavor was also undertaken as part of my educational practicum at college.
